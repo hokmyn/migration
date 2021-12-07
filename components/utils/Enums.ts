@@ -1,5 +1,5 @@
 export enum Endpoints {
-  everything = 'everyrhing',
+  everything = 'everything',
   sources = 'sources',
 }
 
